@@ -9,8 +9,6 @@ namespace SIT321_Assignment_3
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-
-            // test
         }
     }
 }
