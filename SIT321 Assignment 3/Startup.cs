@@ -6,7 +6,6 @@ namespace SIT321_Assignment_3
 {
     public partial class Startup
     {
-        //Andrea NEW TEST
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
